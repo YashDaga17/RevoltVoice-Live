@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RevoltVoice-Live/static/css/main.0a981164.css",
+    "main.js": "/RevoltVoice-Live/static/js/main.d7aa26bd.js",
+    "index.html": "/RevoltVoice-Live/index.html",
+    "main.0a981164.css.map": "/RevoltVoice-Live/static/css/main.0a981164.css.map",
+    "main.d7aa26bd.js.map": "/RevoltVoice-Live/static/js/main.d7aa26bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a981164.css",
+    "static/js/main.d7aa26bd.js"
+  ]
+}
